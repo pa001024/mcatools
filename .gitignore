@@ -1,0 +1,10 @@
+!.gitignore
+*.bat
+*.exe
+*.log
+*.nbt
+*.nbts
+*.mca
+*.mcr
+*.bak
+*.dis
